@@ -1,4 +1,4 @@
-name: buildpac
+name: build
 
 on:
   push:
